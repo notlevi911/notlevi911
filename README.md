@@ -28,6 +28,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notlevi911&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notlevi911&layout=compact&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=notlevi911&theme=tokyonight)
+
 
 ---
 
