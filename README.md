@@ -52,7 +52,8 @@
 
 ---
 
-![Snake Animation](https://github.com/notlevi911/notlevi911/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/notlevi911/notlevi911/output/github-contribution-grid-snake.svg)
+
 
 
 
