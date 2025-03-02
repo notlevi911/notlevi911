@@ -18,7 +18,7 @@
 
 ### 🚀 My Projects
 
-- 🎮 **2D Game in Godot** (Inspired by Celeste!)
+- 🎮 **2D Game in Godot** (Inspired by Celeste!)(work in progress)
 - 🎯 **License Plate Detection** using YOLOv5 & EasyOCR
 - 🌐 **Portfolio Website** (Vanilla HTML, CSS, JS)
 
