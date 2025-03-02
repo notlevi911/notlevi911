@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 👈 Grants permission to push changes
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -18,16 +20,10 @@ jobs:
           github_user_name: notlevi911
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: snake-animation
-          path: dist/github-contribution-grid-snake.svg
-
       - name: Commit and push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add dist/github-contribution-grid-snake.svg
-          git commit -m "Update snake animation"
+          git commit -m "Update snake animation" || echo "No changes to commit"
           git push
