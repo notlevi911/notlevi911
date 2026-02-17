@@ -37,14 +37,14 @@ Hi, I’m **Soubhagya Sadhukhan** 👋
 ---
 
 **Tech I Use**  
-`C` · `Python` · `JavaScript` · `HTML` · `CSS` · `Bootstrap` · `Godot`
+`C` · `Python` · `JS,TS` · `Solidity` · `Hardhat` · `Bootstrap` 
 
 ---
 
 **Projects**  
-- 🎮 Celeste-style Godot game *(WIP)*  
-- 🧠 License plate detection (YOLOv5 + EasyOCR)  
-- 🌐 Personal website (vanilla HTML/CSS/JS)
+- VCS For LLm 
+- Entropy TicTacToe  
+- [Avacado](https://www.avacado.app/)
 
 ---
 
