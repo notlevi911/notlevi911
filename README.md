@@ -43,7 +43,7 @@ Hi, I’m **Soubhagya Sadhukhan** 👋
 
 **Projects**  
 - VCS For LLm 
-- Entropy TicTacToe  
+- AlgoGate SDK  
 - [Avacado](https://www.avacado.app/)
 
 ---
