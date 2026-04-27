@@ -32,7 +32,7 @@ Hello!⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
 Hi, I’m **Soubhagya Sadhukhan** 👋  
-[🌐 soubhagyalevi.me](https://soubhagyalevi.me/) · [🔗 LinkedIn](https://linkedin.com/in/soubhagya-sadhukhan-910330270) · [🐦 Twitter](https://twitter.com/Soubhag24825728)
+[soubhagyalevi.me](https://soubhagyalevi.me/) · [LinkedIn](https://linkedin.com/in/soubhagya-sadhukhan-910330270) · [X](https://twitter.com/Soubhag24825728)
 
 ---
 
