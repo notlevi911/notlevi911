@@ -31,30 +31,8 @@
 Hello!⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-Hi, I’m **Soubhagya Sadhukhan** 👋  
+Hi, I’m **Soubhagya Sadhukhan** 
 [soubhagyalevi.me](https://soubhagyalevi.me/) · [LinkedIn](https://linkedin.com/in/soubhagya-sadhukhan-910330270) · [X](https://twitter.com/Soubhag24825728)
-
----
-
-**Tech I Use**  
-`C` · `Python` · `JS,TS` · `Solidity` · `Hardhat` · `Bootstrap` 
-
----
-
-**Projects**  
-- VCS For LLm 
-- AlgoGate SDK  
-- [Avacado](https://www.avacado.app/)
-
----
-
-**Learning**  
-DSA · Web3 · C++ · DevOPS · ML FWs
-
----
-
-**Fun Fact**  
-🎲 I enjoy gacha games (in moderation 😅)
 
 ---
 
